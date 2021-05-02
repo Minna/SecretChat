@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>330373365701-knl2bnbpd0vkjshlgo012958fkqpohqr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.330373365701-knl2bnbpd0vkjshlgo012958fkqpohqr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBN5GimENj6JC23hNe9kD47RvzEwQrVSEY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>330373365701</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.minna.SecretChat</string>
+	<key>PROJECT_ID</key>
+	<string>couple-chat-e54ce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>couple-chat-e54ce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:330373365701:ios:41e932fa94bcc6578955ac</string>
+</dict>
+</plist>
